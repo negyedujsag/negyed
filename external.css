@@ -1,0 +1,76 @@
+body {text-align: center; background: #001029;padding: 0 10% 0 10%; line-height:26px}
+p {font-family:Century Gothic;color: #0b8080;font-weight:bold}
+h1 {font-family:Arial;color:#0b8080}
+a.list {font-family: Times new roman; font-size:16px}
+a.list:link{color:#001029}
+a.list:visited{color:#001029}
+a.list:hover{#color:#001029;background:#002278}
+div.main{font-size:22px;align-items:center}
+div.sidebar{float:left;text-align:left;font-size:32px;position:absolute}
+div.container{position:fixed;
+	top:-67px}
+div.insta{position:absolute;right:660px;bottom:-485px}
+div.youtube{position:absolute;right:570px;bottom:-488px}
+* {
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+}
+body {
+	font-family:Century Gothic ; font-weight:bold
+}
+nav {position:fixed;
+	background: #002278;
+	height: 80px;
+	width: 100%;
+	left:0px}
+
+}
+nav2 {position:absolute;
+	background: #002278;
+	height: 80px;
+	width: 100%;
+	bottom:-500px;
+	left:0px
+	
+
+}
+label.logo {
+	color: white;
+	font-size: 35px;
+	line-height: 80px;
+	padding: 0 100px;
+	font-weight: bold;}
+
+nav ul {
+	float: right;
+	margin-right: 210px;
+}
+nav ul li {
+	display: inline-block;
+	line-height: 80px;
+	margin: 0px -3px;
+}
+nav ul li a {
+	color: #0b8080;
+	font-size: 17px;
+	padding: 30px 30px;
+	border-radius: 0px;
+	text-transform: uppercase
+}
+a.active, a:hover {
+	background: #00004f;
+	
+}
+.checkbtn {
+	font-size: 30px;
+	color: 00004f;
+	float: right;
+	line-height: 80px;
+	margin-right: 90px;
+	cursor: pointer;
+	display: none;
+}
+

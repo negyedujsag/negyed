@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<title>Legfrissebb</title>
+<link rel="stylesheet" href="external.css">
+<nav>
+           	<input type="checkbox" id="check">
+		<label for="check" class="checkbtn">
+			<i class="fas fa-bars"></i>
+		</label>	
+		<label class="logo"></label>	
+<ul>
+			<li><a href=negyed.html>Címlap</a></li>
+			<li><a  class="active" href=legfrissebb.html>Legfrissebb</a></li>
+			<li><a href=videok.html>Videók</a></li>
+</ul>
+	</nav>
+<nav2>
+           		<label for="check" class="checkbtn">
+			<i class="fas fa-bars"></i>
+</nav2>
+<div class="insta">
+<a class="list" href="https://www.instagram.com/negyedujsag/" target="_blank"><img src="képek/insta.png" width="40,4" height="32"></a>
+</div>
+<div class="youtube">
+<a class="list" href="https://www.youtube.com/channel/UCotpx7NWImT8ux_pEQs8few"><img src="képek/youtube.png" width="38" height="36"></a>
+</div>
+
+<body>
+<center>	
+<div class="main">
+<p><br><br><br><br><br><br>Legfrissebb híreink:</p>
+</div>
+</body>
+<div class="container">
+<img src="képek/logov3finalisj.png" width="330" height"212">
+</div>
+<div class="fill">
+<img src="képek/filler.png"}
+</div>
+</html>
