@@ -28,7 +28,7 @@ nav {position:fixed;
 	left:0px}
 
 }
-nav2 {position:fixed;
+nav2 {position:absolute;
 	background: #002278;
 	height: 80px;
 	width: 100%;
