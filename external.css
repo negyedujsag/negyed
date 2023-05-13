@@ -28,15 +28,13 @@ nav {position:fixed;
 	left:0px}
 
 }
-navu {position:absolute;
+nav2 {position:absolute;
 	background: #002278;
 	height: 80px;
 	width: 100%;
 	bottom:-500px;
-	left:0px
+	left:0px}
 	
-
-}
 label.logo {
 	color: white;
 	font-size: 35px;
