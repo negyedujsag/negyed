@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="képek/favicon.ico" href="képek/favicon.ico">
+</head>
+<title>
+
+</title>
+<link rel="icon" type="képek/favicon.ico" href="képek/favicon.ico">
+<link rel="stylesheet" href="externalv.css">
+<div class="main">
+<arth>
+
+</arth>
+<art>
+
+</art>
+</div>
+<div class="emb">
+
+</div>
+<nav>
+		<label for="check" class="checkbtn">
+			<i class="fas fa-bars"></i>
+		</label>
+<ul>
+			<li><a href=negyedv.html>Címlap</a></li>
+			<li><a href=legfrissebbv.html>Legfrissebb</a></li>
+			<li><a href=videokv.html>Videók</a></li>
+</ul>
+	</nav>
+<nav2>
+           		<label for="check" class="checkbtn">
+			<i class="fas fa-bars"></i>
+</nav2>
+<div class="sotet">
+<a class="list" href="1.html"><img src="képek/sotet.png" width="32" height="32"> </a>
+</div>
+<div class="vilagos">
+<a class="list" href="negyedv.html"><img src="képek/vilagos.png" width="32" height="32"> </a>
+</div>
+<div class="insta">
+<a class="list" href="https://www.instagram.com/negyedujsag/" target="_blank"><img src="képek/insta.png" width="40,4" height="32"></a>
+</div>
+<div class="youtube">
+<a class="list" href="https://www.youtube.com/channel/UCotpx7NWImT8ux_pEQs8few"target="_blank"><img src="képek/youtube.png" width="38" height="36"></a>
+</div>
+<div class="container">
+<img src="képek/logov3finalisj.png" width="330" height"212">
+</div>
+</html>
