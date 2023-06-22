@@ -30,8 +30,8 @@ div.container{position:fixed;
 	top:-67px;
 	left:47px}
 div.vilagos{position:fixed;right:10px;top:24px}
-div.insta{position:absolute;right:660px;bottom:-485px}
-div.youtube{position:absolute;right:570px;bottom:-488px}
+div.insta{position:absolute;right:660px;left:570px;bottom:-485px}
+div.youtube{position:absolute;right:570px;left:660px;bottom:-488px}
 * {
 	padding: 0;
 	margin: 0;
