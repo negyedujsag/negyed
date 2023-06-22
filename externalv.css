@@ -32,7 +32,7 @@ a.art2:hover{color:#085c5c;background:transparent}
 art2{position:absolute;right:75px;top:133px;background:#d5d7db}
 
 
-div.main{font-size:22px;align-items:center}
+div.main{font-size:22px;align-items:center;position:absolute;top:130px}
 
 div.container{position:fixed;
 	top:-67px;
