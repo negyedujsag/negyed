@@ -40,9 +40,9 @@ div.container{position:fixed;
 
 div.sotet{position:fixed;right:10px;top:24px}
 
-div.insta{position:absolute;right:660px;bottom:-485px}
+div.insta{position:absolute;right:660px;left:570px;bottom:-485px}
 
-div.youtube{position:absolute;right:570px;bottom:-488px}
+div.youtube{position:absolute;right:570px;left:660px;bottom:-488px}
 
 * {
 	padding: 0;
