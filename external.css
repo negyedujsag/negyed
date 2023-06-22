@@ -11,19 +11,20 @@ a.list {font-family: Times new roman; font-size:16px}
 a.list:link{color:#001029}
 a.list:visited{color:#001029}
 a.list:hover{#color:#001029;background:#002278}
-a.art1{position:absolute;left:75px;top:133px;font-size:28px;padding:452px 217px 0 0}
+
+a.art1{position:absolute;left:75px;top:130px;font-size:28px;padding:452px 217px 0 0}
 a.art1:link{color:#0b8080}
 a.art1:visited{color:#0b8080}
 a.art1:hover{color:#085c5c;background:transparent}
+art1{position:absolute;left:75px;top:130px}
 
-art1{position:absolute;left:75px;top:133px;background:#001029}
-
-a.art2{position:absolute;right:75px;top:133px;font-size:15;padding:276px 60px 0 0}
+a.art2{position:absolute;left:788px;top:130px;font-size:15;padding:276px 60px 0 0}
 a.art2:link{color:#0b8080}
 a.art2:visited{color:#0b8080}
 a.art2:hover{color:#085c5c;background:transparent}
 
-art2{position:absolute;right:75px;top:133px;background:#001029}
+art2{position:absolute;left:788px;top:130px;background:#001029}
+
 div.main{font-size:22px;position:absolute;top:130px;left:300px;right:300px}
 div.sidebar{float:left;text-align:left;font-size:32px;position:absolute}
 div.container{position:fixed;
