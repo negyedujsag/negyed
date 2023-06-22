@@ -1,15 +1,35 @@
 body {text-align: center; background: #001029;padding: 0 10% 0 10%; line-height:26px}
 p {font-family:Century Gothic;color: #0b8080;font-weight:bold}
 h1 {font-family:Arial;color:#0b8080}
+as {text-align:left}
+
+arth{font-family:Century Gothic;position:absolute;left:152px;color:#0b8080;font-size:28px;text-decoration:underline;font-weight:bold;line-height:300px}
+
+art{text-align:left;font-family:Century Gothic;position:absolute;top:210px;left:152px;color:#0b8080;font-size:16px;font-weight:bold;line-height:25px}
+
 a.list {font-family: Times new roman; font-size:16px}
 a.list:link{color:#001029}
 a.list:visited{color:#001029}
 a.list:hover{#color:#001029;background:#002278}
+a.art1{position:absolute;left:75px;top:133px;font-size:28px;padding:452px 217px 0 0}
+a.art1:link{color:#0b8080}
+a.art1:visited{color:#0b8080}
+a.art1:hover{color:#085c5c;background:transparent}
+
+art1{position:absolute;left:75px;top:133px;background:#001029}
+
+a.art2{position:absolute;right:75px;top:133px;font-size:15;padding:276px 60px 0 0}
+a.art2:link{color:#0b8080}
+a.art2:visited{color:#0b8080}
+a.art2:hover{color:#085c5c;background:transparent}
+
+art2{position:absolute;right:75px;top:133px;background:#001029}
 div.main{font-size:22px;align-items:center}
 div.sidebar{float:left;text-align:left;font-size:32px;position:absolute}
 div.container{position:fixed;
 	top:-67px;
 	left:47px}
+div.vilagos{position:fixed;right:10px;top:24px}
 div.insta{position:absolute;right:660px;bottom:-485px}
 div.youtube{position:absolute;right:570px;bottom:-488px}
 * {
