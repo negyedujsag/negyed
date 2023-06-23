@@ -42,6 +42,10 @@ div.sotet{position:fixed;right:10px;top:24px}
 div.insta{position:absolute;right:660px;left:570px;bottom:-485px}
 
 div.youtube{position:absolute;right:570px;left:660px;bottom:-488px}
+div.insta1{position:absolute;right:660px;left:570px;bottom:15px}
+
+div.youtube1{position:absolute;right:570px;left:660px;bottom:12px}
+
 
 * {
 	padding: 0;
@@ -64,10 +68,15 @@ nav2 {position:absolute;
 	height: 80px;
 	width: 100%;
 	bottom:-500px;
-	left:0px
-	
+	left:0px}
+nav21 {position:absolute;
+	background: #002278;
+	height: 80px;
+	width: 100%;
+	bottom:0px;
+	left:0px}
 
-}
+
 label.logo {
 	color: white;
 	font-size: 35px;
